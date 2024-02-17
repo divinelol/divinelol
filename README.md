@@ -6,4 +6,4 @@ Hobbys: Coding and Reading
 
 Femboy! :3
 
-https://divinexd.github.io/
+https://divinelol.github.io/
