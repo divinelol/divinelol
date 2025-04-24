@@ -1,9 +1,7 @@
-Name:Divine
+fudcrypters.
+C#,
+Py,
+Html,
+Lua.
 
-Age : 13+
-
-Hobbys: Coding and Reading
-
-Femboy! :3
-
-https://divinelol.github.io/
+15
